@@ -1,4 +1,4 @@
-# A Chess Question: Piece Capture Simulator
+# A Chess Game: Piece Capture Simulator
 
 ![Python version](https://img.shields.io/badge/python-3.7%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
